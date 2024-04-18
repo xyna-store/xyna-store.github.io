@@ -10,10 +10,10 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-light.png")
     img.setAttribute(
       "alt",
-      "Foto do Daniel de Moura, sorrindo com uma camisa azul, de baixo de uma arvore, com o fundo embaçado"
+      "Layanan Topup All Game & Jasa Gift MLBB"
     )
   } else {
     img.setAttribute("src", "./assets/avatar-dark.png")
-    img.setAttribute("alt", "Imagem do personagem Yato do Anime de Noragami")
+    img.setAttribute("alt", "Layanan Topup All Game & Jasa Gift MLBB")
   }
 }
